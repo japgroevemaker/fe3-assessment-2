@@ -1,8 +1,7 @@
-.axis .domain {
+.bar {
+  fill: steelblue;
+}
+
+.axis path {
   display: none;
 }
-
-.bar{
-    opacity: 0.9;
-}
-
