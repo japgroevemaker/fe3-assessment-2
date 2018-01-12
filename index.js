@@ -39,7 +39,7 @@ function onload(err, doc) {
         }
     }
 
-    console.log(data)
+    console.log(data)                                                   //Hier log ik de variabelen waar de data in zit in de console
     x.domain(data.map(function (d) {
         return d.Perioden;
     }));
