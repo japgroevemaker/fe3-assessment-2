@@ -36,3 +36,7 @@ function map(d) {
         }
     }
 ```
+Vervolgens kijk ik of de data op de juiste manier opgeschoond is door de data in de console te loggen
+```js
+console.log(data)
+```
