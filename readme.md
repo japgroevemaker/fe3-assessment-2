@@ -1,6 +1,6 @@
 # ASSESMENT 2
 Voor assesment 2 heb ik gekozen voor een sortable barchart. [Barchart](https://bl.ocks.org/mbostock/3885304)
-Vervolgens ben ik op het CBS gaan kijken naar een bruikbare dataset [Link naar dataset] (http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=60048ned&D1=13,18,79,83,87,152,156&D2=0&D3=7-26&HDR=T&STB=G1,G2&VW=T)
+Vervolgens ben ik op het CBS gaan kijken naar een bruikbare dataset [Link naar dataset](http://statline.cbs.nl/Statweb/publication/?DM=SLNL&PA=60048ned&D1=13,18,79,83,87,152,156&D2=0&D3=7-26&HDR=T&STB=G1,G2&VW=T)
 
 Voor de sort functie heb ik code gepakt van deze barchart [Link naar sort barchart](https://bl.ocks.org/mbostock/3885705)
 
