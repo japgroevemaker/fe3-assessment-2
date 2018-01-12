@@ -120,7 +120,7 @@ function onload(err, doc) {
             .call(d3.axisBottom(x))
             .selectAll("g")
             .delay(delay);
-    }
+    } 
     
     
 };
